@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+terminal.txt
+opus_books_weights
+runs/
+weights/
